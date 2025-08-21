@@ -1,1 +1,1 @@
-../../../../../vendor/oplus/kernel/wakelock_profiler/oplus_wakelock_profiler.h
+../../../modules_and_devicetree/vendor/oplus/kernel/wakelock_profiler/oplus_wakelock_profiler.h

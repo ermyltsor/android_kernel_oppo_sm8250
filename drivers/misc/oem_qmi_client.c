@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/misc/oem_qmi_client.c
+../../modules_and_devicetree/vendor/oplus/kernel/misc/oem_qmi_client.c

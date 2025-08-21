@@ -1,1 +1,1 @@
-../../../../vendor/oplus/kernel/oplus_performance/task_cpustats/task_sched_info.h
+../../modules_and_devicetree/vendor/oplus/kernel/oplus_performance/task_cpustats/task_sched_info.h

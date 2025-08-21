@@ -1,1 +1,1 @@
-../../../../../vendor/oplus/kernel/device_info/device_info/device_info.h
+../../../modules_and_devicetree/vendor/oplus/kernel/device_info/device_info/device_info.h

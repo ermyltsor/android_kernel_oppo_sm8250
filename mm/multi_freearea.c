@@ -1,1 +1,1 @@
-../../../vendor/oplus/kernel/oplus_performance/multi_freearea/multi_freearea.c
+../modules_and_devicetree/vendor/oplus/kernel/oplus_performance/multi_freearea/multi_freearea.c

@@ -1,1 +1,1 @@
-../../../../../vendor/oplus/kernel/oplus_performance/healthinfo/main/healthinfo.h
+../../../modules_and_devicetree/vendor/oplus/kernel/oplus_performance/healthinfo/main/healthinfo.h
